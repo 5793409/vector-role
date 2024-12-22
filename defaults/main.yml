@@ -1,0 +1,4 @@
+---
+# defaults file for vector
+VECTOR_CONFIG: "/etc/vector"
+VECTOR_DATA_DIR: "/var/lib/vector"

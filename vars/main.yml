@@ -1,0 +1,4 @@
+---
+# vars file for vector
+VECTOR_USER: "root"
+VECTOR_GROUP: "root"
